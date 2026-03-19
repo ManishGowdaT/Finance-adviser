@@ -1,0 +1,2 @@
+AI Finance Adviser is a web-based application designed to provide basic financial guidance using simple AI-driven logic. The system helps users make better financial decisions by offering insights related to budgeting, spending, and general money management.
+I built this project to explore how AI can be applied in the finance domain for everyday users. The goal was to create a simple and accessible tool that can guide users in managing their finances without requiring deep financial knowledge.
